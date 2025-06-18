@@ -36,7 +36,7 @@ Based on the high-level user stories from Week 1 and aligned with our microservi
 
 - **User 05**: As a student, I want to submit lab solutions by uploading files to the platform
   - *Acceptance Criteria*: File upload to MinIO, submission metadata stored in Labs DB
-  - *Technical Implementation*: Frontend uploads to S3/MinIO, Labs Service stores file references and metadata
+  - *Technical Implementation*: Frontend uploads to MinIO, Labs Service stores file references and metadata
   - *Priority*: High
 
 - **User 06**: As an educator, I want to create lab assignments through Labs Service with file attachments stored in the platform
@@ -58,7 +58,7 @@ Based on the high-level user stories from Week 1 and aligned with our microservi
 
 #### **Feedback and Review System (Feedback Service)**
 
-- **User 09**: As a student, I want to receive structured feedback on lab submissions through
+- **User 09**: As a student, I want to receive structured feedback on lab submissions through Feedback Service so that I can improve my skills and learn from detailed reviews
   - *Acceptance Criteria*: Feedback Service stores reviews linked to lab submissions
   - *Technical Implementation*: Feedback Service connects to Labs Service via gRPC for submission data
   - *Priority*: High
