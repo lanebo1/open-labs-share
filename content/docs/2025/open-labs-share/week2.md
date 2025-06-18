@@ -148,7 +148,8 @@ Can be found by this [(link)](https://github.com/orgs/IU-Capstone-Project-2025/p
 
 - **Aleliya Turushkina (Designer / Frontend):**
 
-**Figma board (clickable):** [link](link) \
+**Figma board (clickable):** [link](https://www.figma.com/design/mvegZwCxX8KHxhtI2PeMHQ/OpenLabsShare?node-id=0-1&p=f&t=M2kuxYrgLTacXKCY-0) \
+**User Flow diagram (clickable):** [link](https://www.figma.com/board/h5M1ofnM5hvBRUiCLaYDc7/User-flow-diagram?node-id=0-1&p=f&t=74EjkMcaerNxCK5U-0) \
 **Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/6), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/8), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/7), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/5) \
 **Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/49), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/30) \
 **Weekly contribution:** Created frontend project structure and updated design system with lab cards, Sign Up page, user profile pages, My Articles section, and article viewing pages. Developed comprehensive user flow diagram. Built page skeletons including registration forms, sidebar navigation with theme switching, and header with search and profile components.
