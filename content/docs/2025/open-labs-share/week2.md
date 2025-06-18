@@ -137,7 +137,7 @@ Can be found by this [(link)](https://github.com/orgs/IU-Capstone-Project-2025/p
 - **Ravil Kazeev (Backend):**
 
 **Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/26), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/11) \
-**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/46), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/47) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/47) \
 **Weekly contribution:** Developed full Feedback service architecture including detailed service documentation, protobuf schemas for inter-service communication, database migration scripts, and storage structure specifications. Core service implementation is being made. Repository contributions include comprehensive service descriptions and database/storage design documentation.
 
 - **Kirill Shumskiy (ML):**
@@ -154,6 +154,7 @@ Can be found by this [(link)](https://github.com/orgs/IU-Capstone-Project-2025/p
 **Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/49), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/30) \
 **Weekly contribution:** Created frontend project structure and updated design system with lab cards, Sign Up page, user profile pages, My Articles section, and article viewing pages. Developed comprehensive user flow diagram. Built page skeletons including registration forms, sidebar navigation with theme switching, and header with search and profile components.
 
+**More detailed descriptions of services can be found by links from project `README.md` file [(link)](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/README.md).**
 ## Plan for Next Week
 
 With all preparation work and documentation completed, our team is ready to focus entirely on developing the MVP over the next week.
