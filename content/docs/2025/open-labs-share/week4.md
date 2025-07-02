@@ -102,10 +102,10 @@ The team is performing pretty good this week. We've successfully tackled all maj
 3. **Deployment Challenges**: `self-hosted` server configuration had one major issue: we were unable to access it from outside of university network because of university network NAT router. So, our first idea was to use Cloudflare to redirect requests to our server, but it was not working due to unable to proceed payment. So, we had to use CloudPub to redirect requests to our server. That is still require manual work to be done, but with aquired domain name and SSL certificate we are able to access our server from outside of university network successfully.
 
 **Team Dynamics:**
-- **Communication**: Our daily texts and in-person meetings have been really effective. Everyone feels comfortable speaking up, sharing blockers, and bouncing ideas off each other. The open atmosphere makes it easy to ask for help when needed.
+- **Communication**: Our daily texts and in-person meetings have been really effective. Everyone speaking up, sharing their issues and ideas.
 - **Code Review Process**: Peer review quality has improved significantly: we are checking each others code in our fields (Backend, Frontend, ML, Frontend) to better understand each other's work and to find potential issues and improvements.
-- **Issue Management**: We've embraced GitHub's project management tools and they're really clicking for us. Our Kanban board gives everyone a clear view of what's in progress, while milestones help us stay focused on sprint goals. The labeling system makes it easy to filter and find specific types of work, and having clear assignees means no one's wondering who's handling what. It's streamlined our workflow and reduced the "wait, who's working on this?" moments significantly.
-- **Work-Life Balance**: Everyone's been doing a great job keeping a healthy pace - no one's showing signs of serious burning out. Unfortunately, Aleliya has been dealing with some serious health issues over the past couple weeks that have made it really tough for her to spend time at the computer. Despite this, she's been staying involved through our text chats and has even managed to help out with some design work.
+- **Issue Management**: We've embraced GitHub's project management tools and they're really clicking for us. Our Kanban board gives everyone a clear view of what's in progress, while milestones help us stay focused on sprint goals. The labeling system makes it easy to filter and find specific types of work, and having clear assignees means no one's wondering who's handling what.
+- **Work-Life Balance**: Unfortunately, we are libing with minor burnout issues. Also, Aleliya has been dealing with some serious health issues over the past couple weeks that have made it really tough for her to spend time at the computer. Despite this, she's been staying involved through our text chats and has even managed to help out with some design work.
 
 **Action Items:**
 - Continue weekly team retrospectives and planning sessions
@@ -118,47 +118,47 @@ The team is performing pretty good this week. We've successfully tackled all maj
 
 - **Kirill Efimovich (PM / DevOps):**
 
-**Kanban board (clickable):** link \
-**Milestone (clickable):** link \
-**Closed issues (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (clickable):** PR, PR, PR, PR, PR \
+**Kanban board (clickable):** [link](https://github.com/orgs/IU-Capstone-Project-2025/projects/6/views/1) \
+**Milestone (clickable):** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/milestone/4) \
+**Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/152), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/135), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/138), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/150), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/162), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/180) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/182), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/168) \
 **Summary of TA feedback:** Nice MVP progress. Suggestions to improve our project and add cherry on top for our product (Marimo elements for example). Also, if the member of our team is ill, then we should reassign and rearrange tasks to other team members. \
 **Weekly contribution:** Created ideas and implemented them in CI/CD pipeline for services, created deployment scripts, configured `self-hosted` server, worked with Cloudflare and CloudPub for redirection, expanded Kanban board and milestones, added multi-stage CI/CD pipeline, added staging deployment, fixed frontend bugs, written this report.
+**Important note:** We are conducting sprints on Friday, so current week is not fully completed. Full result can be seen on Friday.
 
 - **Mikhail Trifonov (Backend):**
 
-**Closed issues (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (clickable):** PR, PR, PR, PR, PR \
+**Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/175), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/162), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/167), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/163), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/141), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/45) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/181), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/178), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/173), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/169), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/165), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/161), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/154) \
 **Weekly contribution:** Implemented CI build verification script for all backend services, added proper username change handling with JWT token updates, achieved comprehensive test coverage for User Service with unit and integration tests, developed points system with balance tracking and lab counters including automatic balance management, created frontend balance display in profile and user panels with real-time updates across all pages, added submission cost notifications and disabled submit buttons for insufficient balance, conducted code reviews and fixed bugs including cleanup of teammates' code.
   
 - **Nikita Maksimenko (Backend):**
 
-**Closed issues (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (clickable):** PR, PR, PR, PR, PR \
+**Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/136), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/159), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/146) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/183), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/179), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/171) \
 **Weekly contribution:** Enhanced API Gateway service with comprehensive testing for service logic and input models, implemented endpoints for submissions, comments, and feedback, and updated documentation.
 
 - **Timur Salakhov (Backend):**
 
-**Closed issues (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (clickable):** PR, PR, PR, PR, PR \
+**Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/87), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/160), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/174) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/166), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/157), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/155) \
 **Weekly contribution:** Enhanced labs service with submissions loading functionality and implemented comprehensive testing suite for labs service.
 
 - **Ravil Kazeev (Backend):**
 
-**Closed issues (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (clickable):** PR, PR, PR, PR, PR \
+**Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/170) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/183) \
 **Weekly contribution:** Updated feedback service with new gRPC methods, refactored existing code, and migrated comments section from PostgreSQL to MongoDB.
 
 - **Kirill Shumskiy (ML):**
 
-**Closed issues (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (clickable):** PR, PR, PR, PR, PR \
+**Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/148) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/133)\
 **Weekly contribution:** Conducted auto-grading experiments, implemented inference API for large models, designed auto-grading architecture, validated baseline on test dataset, and wrote tests.
 
 - **Aleliya Turushkina (Designer / Frontend):**
 
-**Closed issues (with her assist) (clickable):** Issue, Issue, Issue, Issue, Issue \
-**Closed PR's (with her assist) (clickable):** PR, PR, PR, PR, PR \
+**Closed issues (with her assist) (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/142), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/136), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/146) \
 **Weekly contribution:** Sadly, was not able to contribute much this week due to health issues. Was able to help with some design work and joined team discussions.
 
 **More detailed descriptions of services can be found by links from project `README.md` file [(link)](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/README.md).**
