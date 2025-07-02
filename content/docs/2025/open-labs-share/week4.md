@@ -135,7 +135,7 @@ The team is performing pretty good this week. We've successfully tackled all maj
 - **Nikita Maksimenko (Backend):**
 
 **Closed issues (clickable):** [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/136), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/159), [Issue](https://github.com/IU-Capstone-Project-2025/open-labs-share/issues/146) \
-**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/183), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/179), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/171) \
+**Closed PR's (clickable):** [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/183), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/179), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/171), [PR](https://github.com/IU-Capstone-Project-2025/open-labs-share/pull/129) \
 **Weekly contribution:** Enhanced API Gateway service with comprehensive unit testing for service logic and input models, implemented all REST endpoints and gRPC service logic for submissions, comments, and feedback, updated documentation, participated in code review and bug fixing, closely work with backend team to fully connect the services.
 
 - **Timur Salakhov (Backend):**
