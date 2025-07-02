@@ -55,19 +55,19 @@ This week we successfully implemented a complete CI/CD pipeline using GitHub Act
 
 ### Links to CI/CD configuration files
 
-**Build Validation Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/.github/workflows/build-validation.yml)
+**Build Validation Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/.github/workflows/build-validation.yml)
 
-**Docker Build Test Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/.github/workflows/docker-build-test.yml)
+**Docker Build Test Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/.github/workflows/docker-build-test.yml)
 
-**Deployment Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/.github/workflows/deploy.yml)
+**Deployment Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/.github/workflows/deploy.yml)
 
-**Kanban Automation Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/.github/workflows/kanban-automation.yml)
+**Kanban Automation Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/.github/workflows/kanban-automation.yml)
 
-**PR Notification Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/.github/workflows/pr-notify.yml)
+**PR Notification Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/.github/workflows/pr-notify.yml)
 
-**Service Tests Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/.github/workflows/service-tests.yml)
+**Service Tests Workflow:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/.github/workflows/service-tests.yml)
 
-**Docker Configurations:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/main/docker-compose.yml)
+**Docker Configurations:** [link](https://github.com/IU-Capstone-Project-2025/open-labs-share/blob/dev/docker-compose.yml)
 
 ## Deployment (Staging)
 
